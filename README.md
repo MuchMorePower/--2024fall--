@@ -50,12 +50,13 @@
 ### 项目结构
 
 ```
-/YourProject
+/OnlineShoppingProject
 │
 ├── /src
 │   │
 │   ├── /config             
-│   │   ├── DatabaseConfig.java│   │
+│   │   ├── DatabaseConfig.java
+│   │
 │   ├── /dao                 # 数据访问层 (Data Access Object)
 │   │   ├── BaseDao.java
 │   │   ├── UserDao.java
