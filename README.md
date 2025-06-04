@@ -2,7 +2,7 @@
 
 姓名: 戴运
 
-学号: 202230440346
+
 
 [网址连接:http://8.140.235.154:8080/onlineshopping/login.jsp](http://8.140.235.154:8080/onlineshopping/login.jsp)
 
